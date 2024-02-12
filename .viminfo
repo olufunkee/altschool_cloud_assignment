@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1707770800,,"wq"
+|2,0,1707778368,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -23,28 +23,68 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+""0	LINE	0
+	c. echo 'Hello A' >> /home/Altschool/misc/fileA
+|3,1,0,1,1,0,1707777919,"c. echo 'Hello A' >> /home/Altschool/misc/fileA"
 
 # File marks:
-'0  1  0  ~/misc/fileD
-|4,48,1,0,1707771712,"~/misc/fileD"
-'1  1  10  ~/misc/fileB
-|4,49,1,10,1707770800,"~/misc/fileB"
-'2  1  22  ~/misc/fileB
-|4,50,1,22,1707770718,"~/misc/fileB"
+'0  18  25  ~/requiredcommands.txt
+|4,48,18,25,1707778368,"~/requiredcommands.txt"
+'1  1  0  ~/misc/fileD
+|4,49,1,0,1707771712,"~/misc/fileD"
+'2  1  10  ~/misc/fileB
+|4,50,1,10,1707770800,"~/misc/fileB"
+'3  1  22  ~/misc/fileB
+|4,51,1,22,1707770718,"~/misc/fileB"
 
 # Jumplist (newest first):
+-'  18  25  ~/requiredcommands.txt
+|4,39,18,25,1707778368,"~/requiredcommands.txt"
+-'  1  0  ~/requiredcommands.txt
+|4,39,1,0,1707777775,"~/requiredcommands.txt"
+-'  1  0  ~/misc/fileD
+|4,39,1,0,1707771712,"~/misc/fileD"
 -'  1  0  ~/misc/fileD
 |4,39,1,0,1707771712,"~/misc/fileD"
 -'  1  10  ~/misc/fileB
 |4,39,1,10,1707770800,"~/misc/fileB"
 -'  1  10  ~/misc/fileB
 |4,39,1,10,1707770800,"~/misc/fileB"
+-'  1  10  ~/misc/fileB
+|4,39,1,10,1707770800,"~/misc/fileB"
+-'  1  10  ~/misc/fileB
+|4,39,1,10,1707770800,"~/misc/fileB"
+-'  1  22  ~/misc/fileB
+|4,39,1,22,1707770718,"~/misc/fileB"
+-'  1  22  ~/misc/fileB
+|4,39,1,22,1707770718,"~/misc/fileB"
 -'  1  22  ~/misc/fileB
 |4,39,1,22,1707770718,"~/misc/fileB"
 -'  1  22  ~/misc/fileB
 |4,39,1,22,1707770718,"~/misc/fileB"
 
 # History of marks within files (newest to oldest):
+
+> ~/requiredcommands.txt
+	*	1707778362	0
+	"	18	25
+	^	18	26
+	.	18	25
+	+	3	47
+	+	19	0
+	+	4	0
+	+	9	47
+	+	4	35
+	+	6	15
+	+	9	47
+	+	6	29
+	+	8	0
+	+	8	47
+	+	9	0
+	+	8	0
+	+	9	0
+	+	9	59
+	+	18	25
 
 > ~/misc/fileD
 	*	1707771712	0

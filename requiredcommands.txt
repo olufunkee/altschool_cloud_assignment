@@ -1,0 +1,19 @@
+a. cd /home/Altschool/tests
+b. cd ./tests
+c. echo 'Hello A' >> /home/Altschool/misc/fileA
+d. touch /home/Altschool/misc/fileB
+   vi /home/Altschool/misc/fileB
+   Dummy text - "Loren ipsum"
+
+e. cp /home/Altschool/misc/fileA /home/Altschool/misc/fileC
+f. mv /home/Altschool/misc/fileB /home/Altschool/misc/fileD
+g. tar -cvf misc.tar misc
+h. gzip misc.tar
+i. sudo useradd Foyeke
+   sudo chage --lastday 0 Foyeke
+j. sudo passwd -l Grace
+k. sudo useradd -s /sbin/nologin Mojisola
+l. sudo vi /etc/ssh/sshd_config
+   PermitRootLogin no
+m. PermitAuthentication no
+
