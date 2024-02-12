@@ -1,0 +1,5 @@
+[safe]
+	directory = /home/vagrant
+[user]
+	email = volufunke@gmail.com
+	name = Olufunkee
